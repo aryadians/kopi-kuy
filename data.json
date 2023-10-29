@@ -36,6 +36,28 @@
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
-    ]
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://cdn.pixabay.com/photo/2018/08/16/22/59/ice-cream-3611698_1280.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "600.000",
+            "link": "https://www.lazada.co.id/products/aice-3in1-bucket-ice-cream-es-krim-ember-8l-eskrim-i1618890442-s3121648276.html?from_gmc=1&exlaz=d_1:mm_150050845_51350205_2010350205::12:19855399848!!!!!c!!3121648276!766945338&gad_source=4&gclid=Cj0KCQjwhfipBhCqARIsAH9msblAM_CdDeLBEjdEcceEi8JDDVvY26o6rSBToNjRUOi8JyJJ7YrByP4aAhEREALw_wcB"
+        }, 
+        {
+            "foto": "https://image.popbela.com/content-images/post/20220408/82cdaa441c5e1bcc7320ea4980cb7585.jpg?width=1600&format=webp&w=1600",
+            "nama": "Es Campur",
+            "size": "50 Gram",
+            "harga": "300.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=739&biw=1536&hl=id&sa=X&ved=2ahUKEwjnkJCKzZuCAxVZtWMGHXpSDI4Q_AUoBHoECAEQBA"
+}]
 }

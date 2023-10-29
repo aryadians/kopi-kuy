@@ -20,10 +20,8 @@ Pastikan anda telah menginstall beberapa aplikasi di bawah ini. Web Server hanya
 5.Shop\
 6.Chat
 
-Kita akan melakukan coding Produk dengan framework bootstrap, Pastikan teman-teman sudah paham menggunakan VS CODE atau SPCK untuk android. 
-
 ![image](https://github.com/aryadians/kopi-kuy/assets/100359532/24367669-0437-4466-95e7-95559aa43e17)
-(gambar diatas merupakan hasil dari tugas day2)
+
 
 
 
