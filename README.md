@@ -1,82 +1,121 @@
 <div align="center">
+  <img src="images/logo/logo_kuy.png" alt="Logo Kopi Kuy" width="160">
+  
+  <h1 align="center">Kopi Kuy Website</h1>
 
-  <img src="images/logo/logo_kuy.png" alt="Logo Kopi Kuy" width="150">
-  
-  # ☕ Kopi Kuy Website
-  
-  **Nikmati Kopi Berkualitas dengan Sentuhan Digital**
-  
-  [![Vercel App](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kopi-kuy-xi.vercel.app/)
-  [![GitHub stars](https://img.shields.io/github/stars/aryadians/kopi-kuy?style=for-the-badge&color=yellow)](https://github.com/aryadians/kopi-kuy/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/aryadians/kopi-kuy?style=for-the-badge&color=orange)](https://github.com/aryadians/kopi-kuy/network/members)
-  [![License](https://img.shields.io/github/license/aryadians/kopi-kuy?style=for-the-badge&color=blue)](LICENSE)
+  <p align="center">
+    <strong>Modern Coffee Shop Landing Page dengan Desain Responsif & Interaktif</strong>
+  </p>
 
+  <div align="center">
+    <a href="https://kopi-kuy-xi.vercel.app/">
+      <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel App" />
+    </a>
+    <a href="https://github.com/aryadians/kopi-kuy/stargazers">
+      <img src="https://img.shields.io/github/stars/aryadians/kopi-kuy?style=for-the-badge&color=yellow" alt="GitHub stars" />
+    </a>
+    <a href="https://github.com/aryadians/kopi-kuy/network/members">
+      <img src="https://img.shields.io/github/forks/aryadians/kopi-kuy?style=for-the-badge&color=orange" alt="GitHub forks" />
+    </a>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/github/license/aryadians/kopi-kuy?style=for-the-badge&color=blue" alt="License" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+<details>
+  <summary><strong>📋 Daftar Isi (Table of Contents)</strong></summary>
+  <ol>
+    <li><a href="#-tentang-proyek">Tentang Proyek</a></li>
+    <li><a href="#-teknologi--alat">Teknologi & Alat</a></li>
+    <li><a href="#-fitur-unggulan">Fitur Unggulan</a></li>
+    <li><a href="#-instalasi--penggunaan">Instalasi & Penggunaan</a></li>
+    <li><a href="#-tampilan-antarmuka">Tampilan Antarmuka</a></li>
+    <li><a href="#-kontak">Kontak</a></li>
+  </ol>
+</details>
 
 ---
 
 ## 📖 Tentang Proyek
 
-**Kopi Kuy** adalah sebuah landing page website untuk kedai kopi yang modern dan responsif. Website ini merupakan hasil implementasi dari program **Prakerja Web Development Bootstrap - Riki Course**. 
+**Kopi Kuy** adalah *landing page* modern yang dirancang untuk menghadirkan pengalaman digital terbaik bagi pecinta kopi. Website ini menggabungkan estetika desain minimalis dengan fungsionalitas responsif yang mulus di berbagai perangkat (Mobile, Tablet, Desktop).
 
-Proyek ini dikerjakan secara intensif selama **5 Minggu**, dengan penyelesaian *task* mingguan yang terstruktur untuk memastikan kualitas kode dan tampilan antarmuka yang menarik.
+Proyek ini merupakan **Capstone Project** dari program **Prakerja Web Development Bootstrap (Riki Course)**. Dikembangkan secara intensif selama **5 minggu**, proyek ini mendemonstrasikan penerapan prinsip *clean code*, struktur HTML5 semantik, dan styling CSS3 tingkat lanjut.
 
-## 🚀 Live Demo
-
-Jangan hanya membayangkannya, coba langsung website-nya di sini:
-
-<a href="https://kopi-kuy-xi.vercel.app/">
-  <img src="https://img.shields.io/badge/Lihat_Website_Demo-Click_Here-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
-</a>
+> **Status:** ✅ *Completed & Deployed*
 
 ---
 
 ## 🛠 Teknologi & Alat
 
-Proyek ini dibangun menggunakan teknologi web standar dan framework CSS populer:
+Dibangun dengan fondasi teknologi web standar yang kuat untuk performa dan kompatibilitas maksimal:
 
 | Kategori | Teknologi |
 | :--- | :--- |
-| **Bahasa Utama** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) |
-| **Framework** | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+| **Frontend Core** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frameworks** | ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) |
+| **Development** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-## 📋 Fitur / Daftar Menu
+## 🚀 Fitur Unggulan
 
-Website ini memiliki beberapa bagian menu navigasi utama untuk memudahkan pengunjung:
+Website ini dirancang dengan fokus pada *User Experience* (UX) yang intuitif:
 
-* 🔥 **Best Seller** - Menampilkan produk kopi unggulan yang paling diminati.
-* 👥 **Our Team** - Memperkenalkan tim hebat di balik Kopi Kuy.
-* ⭐ **Review** - Testimoni jujur dari pelanggan setia kami.
-* 📞 **Contact Us** - Informasi lokasi dan kontak untuk pemesanan.
-* 🛒 **Shop** - Halaman khusus untuk melihat katalog produk lengkap.
-* 💬 **Chat** - Fitur *Direct to WhatsApp* untuk tanya jawab cepat.
+* 🔥 **Best Seller Showcase**: Tampilan grid produk unggulan dengan desain kartu (card) yang menarik.
+* 📱 **Fully Responsive**: Tata letak adaptif yang terlihat sempurna di layar ponsel maupun desktop.
+* ⚡ **Smooth Navigation**: Navigasi *Single Page Application* (SPA) feel dengan smooth scrolling.
+* 💬 **Direct WhatsApp API**: Fitur *Click-to-Chat* yang menghubungkan pelanggan langsung ke admin WhatsApp.
+* ⭐ **Customer Reviews**: Bagian testimoni untuk membangun kepercayaan pelanggan.
 
 ---
 
-## 💻 Aplikasi Pendukung
+## 💻 Instalasi & Penggunaan
 
-Pastikan Anda telah menginstal aplikasi berikut jika ingin menjalankan proyek ini secara lokal (*local development*):
+Ingin menjalankan proyek ini di komputer lokal Anda? Ikuti langkah mudah berikut:
 
-1.  **Code Editor:** [Visual Studio Code](https://code.visualstudio.com/) (Rekomendasi)
-2.  **File Archiver:** WinRAR / 7-Zip (Untuk ekstrak file aset)
-3.  **Browser:** Google Chrome / Firefox / Edge
-4.  *(Opsional)* **Web Server:** Hanya dibutuhkan untuk pengguna Windows 7 ke bawah atau testing PHP.
+1.  **Clone Repository**
+    ```bash
+    git clone [https://github.com/aryadians/kopi-kuy.git](https://github.com/aryadians/kopi-kuy.git)
+    ```
+
+2.  **Masuk ke Direktori**
+    ```bash
+    cd kopi-kuy
+    ```
+
+3.  **Jalankan Website**
+    * Buka file `index.html` menggunakan browser favorit Anda (Chrome/Firefox/Edge).
+    * Atau gunakan ekstensi **Live Server** di VS Code untuk pengalaman yang lebih baik.
 
 ---
 
 ## 📸 Tampilan Antarmuka
 
-Berikut adalah cuplikan tampilan dari website Kopi Kuy:
+Berikut adalah *preview* visual dari website Kopi Kuy:
 
 ![Preview Website](https://github.com/aryadians/kopi-kuy/assets/100359532/24367669-0437-4466-95e7-95559aa43e17)
 
 ---
 
+## 🤝 Kontak & Kontribusi
+
+Proyek ini dikembangkan dengan penuh semangat belajar. Jika Anda memiliki saran atau ingin berdiskusi, jangan ragu untuk menghubungi saya!
+
 <div align="center">
+  <br>
   <p>Dibuat dengan ❤️ dan ☕ oleh <b>Arya Dian</b></p>
   
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryadians)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aryadians)
+  <a href="https://github.com/aryadians">
+    <img src="https://img.shields.io/badge/GitHub-aryadians-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://instagram.com/aryadians">
+    <img src="https://img.shields.io/badge/Instagram-aryadians-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:aryadian003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
