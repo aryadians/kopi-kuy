@@ -1,0 +1,12 @@
+# System files
+Thumbs.db
+.DS_Store
+
+# Node modules (jika nanti pakai npm)
+node_modules/
+.env
+
+# Folder sampah/sementara
+tmp/
+bahan/
+*.log
